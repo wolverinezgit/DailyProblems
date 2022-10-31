@@ -88,7 +88,6 @@ while(k--)
     x2--;
     unite(x1,x2);
 }
-
 for(i=0;i<n;i++)
 {
     ll p1=findpar(i);
